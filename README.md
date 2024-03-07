@@ -8,26 +8,18 @@ This notebook demonstrates sentiment analysis using transformer models from Hugg
 
 ## Contents
 
-- `sentiment_analysis.ipynb`: Jupyter Notebook for sentiment analysis with Hugging Face transformers.
-- `sample_dataset`: Folder containing the Sentiment Labelled Sentences dataset.
-- `requirements.txt`: Python dependencies.
+- `Sentiment_Analysis_with_Transformers.ipynb`: Jupyter Notebook for sentiment analysis with Hugging Face transformers.
 
 ## Getting Started
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/sentiment-analysis-huggingface.git
+    git clone https://github.com/ijaz-aj/Sentiment_Analysis_with_Transformers.git
     cd sentiment-analysis-huggingface
     ```
 
-2. Install the dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Open and run the `sentiment_analysis.ipynb` notebook using Jupyter or your preferred environment.
+3. Open and run the `Sentiment_Analysis_with_Transformers.ipynb` notebook using Jupyter or your preferred environment.
 
 ## Notebook Highlights
 
